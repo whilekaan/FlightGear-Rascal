@@ -50,6 +50,7 @@ dynamics model, and external 3D model.
 
   <model>
    <path archive="y">Aircraft/Rascal/Models/Rascal110.xml</path>
+   <fallback-model-index type="int">12</fallback-model-index>
   </model>
 
   <hud>
